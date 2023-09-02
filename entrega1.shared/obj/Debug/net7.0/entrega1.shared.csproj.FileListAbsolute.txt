@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\api\entrega1.shared\bin\Debug\net7.0\entrega1.shared.deps.json
+C:\Users\Usuario\Desktop\api\entrega1.shared\bin\Debug\net7.0\entrega1.shared.dll
+C:\Users\Usuario\Desktop\api\entrega1.shared\bin\Debug\net7.0\entrega1.shared.pdb
+C:\Users\Usuario\Desktop\api\entrega1.shared\obj\Debug\net7.0\entrega1.shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\api\entrega1.shared\obj\Debug\net7.0\entrega1.shared.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\api\entrega1.shared\obj\Debug\net7.0\entrega1.shared.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\api\entrega1.shared\obj\Debug\net7.0\entrega1.shared.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\api\entrega1.shared\obj\Debug\net7.0\entrega1.shared.dll
+C:\Users\Usuario\Desktop\api\entrega1.shared\obj\Debug\net7.0\refint\entrega1.shared.dll
+C:\Users\Usuario\Desktop\api\entrega1.shared\obj\Debug\net7.0\entrega1.shared.pdb
+C:\Users\Usuario\Desktop\api\entrega1.shared\obj\Debug\net7.0\ref\entrega1.shared.dll

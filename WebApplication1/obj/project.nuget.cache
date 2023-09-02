@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "CQ3LxfZ/3UWyUNsY/1tWCKowTGwOJ1lwcm6I+Xmh43AxqMNu4QlLHj2ZiF3L4hKZFOfRr2kRMydbrH7BUe344Q==",
-  "success": false,
+  "dgSpecHash": "+T3eFqaVVRUvwQfZTCXt5vTg2mPlUU2G0gWhBSv7kDNL1mTJGoA+NbqwB7PIe23a9GJRRT4NUSHlRHKHQDq6Hw==",
+  "success": true,
   "projectFilePath": "C:\\Users\\Usuario\\Desktop\\api\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
@@ -79,15 +79,5 @@
     "C:\\Users\\Usuario\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "No se encuentra el proyecto \"C:\\Users\\Usuario\\Desktop\\api\\practica1.sharet\\practica1.sharet.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
-      "libraryId": "C:\\Users\\Usuario\\Desktop\\api\\practica1.sharet\\practica1.sharet.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    }
-  ]
+  "logs": []
 }

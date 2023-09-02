@@ -14,7 +14,7 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.10",
           "Microsoft.EntityFrameworkCore.Tools": "7.0.10",
           "Swashbuckle.AspNetCore": "6.5.0",
-          "practica1.sharet": "1.0.0"
+          "entrega1.shared": "1.0.0"
         },
         "runtime": {
           "WebApplication1.dll": {}
@@ -675,9 +675,9 @@
           }
         }
       },
-      "practica1.sharet/1.0.0": {
+      "entrega1.shared/1.0.0": {
         "runtime": {
-          "practica1.sharet.dll": {}
+          "entrega1.shared.dll": {}
         }
       }
     }
@@ -1206,7 +1206,7 @@
       "path": "system.windows.extensions/5.0.0",
       "hashPath": "system.windows.extensions.5.0.0.nupkg.sha512"
     },
-    "practica1.sharet/1.0.0": {
+    "entrega1.shared/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

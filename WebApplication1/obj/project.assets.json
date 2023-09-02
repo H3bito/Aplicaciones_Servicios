@@ -3927,7 +3927,6 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "C:\\Users\\Usuario\\Desktop\\api\\practica1.sharet\\practica1.sharet.csproj",
       "Microsoft.AspNetCore.OpenApi >= 7.0.10",
       "Microsoft.EntityFrameworkCore >= 7.0.10",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.10",
@@ -3966,9 +3965,6 @@
           "projectReferences": {
             "C:\\Users\\Usuario\\Desktop\\api\\entrega1.shared\\entrega1.shared.csproj": {
               "projectPath": "C:\\Users\\Usuario\\Desktop\\api\\entrega1.shared\\entrega1.shared.csproj"
-            },
-            "C:\\Users\\Usuario\\Desktop\\api\\practica1.sharet\\practica1.sharet.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\Desktop\\api\\practica1.sharet\\practica1.sharet.csproj"
             }
           }
         }
@@ -4034,16 +4030,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "No se encuentra el proyecto \"C:\\Users\\Usuario\\Desktop\\api\\practica1.sharet\\practica1.sharet.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
-      "libraryId": "C:\\Users\\Usuario\\Desktop\\api\\practica1.sharet\\practica1.sharet.csproj",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    }
-  ]
+  }
 }
