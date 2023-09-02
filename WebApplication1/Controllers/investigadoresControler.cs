@@ -1,6 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using entrega1.shared.entitys;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using Practica1.sharet.entity;
 using System.Diagnostics.Metrics;
 using WebApplication1.data;
 
@@ -14,14 +14,14 @@ namespace WebApplication1.Controllers
         private readonly DataContext _context;
         public investigadoresControler(DataContext context) { _context = context; }
         [HttpGet]
-        public async Task<ActionResult> get() { return Ok(await _context.investigadores.ToListAsync());}
+        public async Task<ActionResult> get() { return Ok(await _context.proyectos.ToListAsync());}
 
 
         [HttpGet("{id:int}")]
         public async Task<ActionResult> get(int id) { 
          //200 ok
 
-            await _context.investigadores.FirstOrDefaultAsync(x => x.id == id);
+            await _context.proyectos.FirstOrDefaultAsync(x => x.id == id);
 
 
             return Ok();

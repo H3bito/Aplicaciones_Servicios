@@ -1238,6 +1238,16 @@
             "rid": "win"
           }
         }
+      },
+      "entrega1.shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/entrega1.shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/entrega1.shared.dll": {}
+        }
       }
     }
   },
@@ -3908,6 +3918,11 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "entrega1.shared/1.0.0": {
+      "type": "project",
+      "path": "../entrega1.shared/entrega1.shared.csproj",
+      "msbuildProject": "../entrega1.shared/entrega1.shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3918,7 +3933,8 @@
       "Microsoft.EntityFrameworkCore.Design >= 7.0.10",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.10",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.10",
-      "Swashbuckle.AspNetCore >= 6.5.0"
+      "Swashbuckle.AspNetCore >= 6.5.0",
+      "entrega1.shared >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3948,6 +3964,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+            "C:\\Users\\Usuario\\Desktop\\api\\entrega1.shared\\entrega1.shared.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\Desktop\\api\\entrega1.shared\\entrega1.shared.csproj"
+            },
             "C:\\Users\\Usuario\\Desktop\\api\\practica1.sharet\\practica1.sharet.csproj": {
               "projectPath": "C:\\Users\\Usuario\\Desktop\\api\\practica1.sharet\\practica1.sharet.csproj"
             }

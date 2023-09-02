@@ -22,6 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\entrega1.shared\entrega1.shared.csproj" />
     <ProjectReference Include="..\practica1.sharet\practica1.sharet.csproj" />
   </ItemGroup>
 
